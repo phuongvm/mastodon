@@ -74,12 +74,12 @@ export const LinkFooter: React.FC<{
       </p>
 
       <p>
-        <strong>Mastodon</strong>:{' '}
-        <a href='https://joinmastodon.org' target='_blank' rel='noopener'>
+        <strong>Inspire Robotics</strong>:{' '}
+        <a href='https://inspire-robotics.com' target='_blank' rel='noopener'>
           <FormattedMessage id='footer.about' defaultMessage='About' />
         </a>
         <DividingCircle />
-        <a href='https://joinmastodon.org/apps' target='_blank' rel='noopener'>
+        <a href='https://inspire-robotics.com/apps' target='_blank' rel='noopener'>
           <FormattedMessage id='footer.get_app' defaultMessage='Get the app' />
         </a>
         <DividingCircle />

@@ -2,7 +2,7 @@
   "about.blocks": "Modereeritavad serverid",
   "about.contact": "Kontakt:",
   "about.default_locale": "Vaikimisi",
-  "about.disclaimer": "Mastodon on tasuta ja vaba tarkvara ning Mastodon gGmbH kaubamärk.",
+  "about.disclaimer": "Mastodon on tasuta ja vaba tarkvara ning Inspire Robotics kaubamärk.",
   "about.domain_blocks.no_reason_available": "Põhjus teadmata",
   "about.domain_blocks.preamble": "Mastodon lubab tavaliselt vaadata sisu ning suhelda kasutajatega ükskõik millisest teisest fediversumi serverist. Need on erandid, mis on paika pandud sellel kindlal serveril.",
   "about.domain_blocks.silenced.explanation": "Sa ei näe üldiselt profiile ja sisu sellelt serverilt, kui sa just tahtlikult seda ei otsi või jälgimise moel nõusolekut ei anna.",

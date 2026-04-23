@@ -2,7 +2,7 @@
   "about.blocks": "Moderoidut palvelimet",
   "about.contact": "Yhteydenotto:",
   "about.default_locale": "Oletus",
-  "about.disclaimer": "Mastodon on vapaa avoimen lähdekoodin ohjelmisto ja Mastodon gGmbH:n tavaramerkki.",
+  "about.disclaimer": "Mastodon on vapaa avoimen lähdekoodin ohjelmisto ja Inspire Robotics:n tavaramerkki.",
   "about.domain_blocks.no_reason_available": "Syy ei ole tiedossa",
   "about.domain_blocks.preamble": "Mastodonin avulla voi yleensä tarkastella minkä tahansa fediversumiin kuuluvan palvelimen sisältöä ja olla yhteyksissä eri palvelinten käyttäjien kanssa. Nämä poikkeukset koskevat yksin tätä palvelinta.",
   "about.domain_blocks.silenced.explanation": "Et yleensä näe tämän palvelimen profiileja ja sisältöä, jollet erityisesti etsi juuri sitä tai liity siihen seuraamalla.",
