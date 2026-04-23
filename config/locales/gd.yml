@@ -1750,6 +1750,7 @@ gd:
       disabled_account: Cha ghabh an cunntas làithreach agad a chleachdadh gu slàn às a dhèidh. Gidheadh, bidh an dà chuid às-phortadh an dàta is ath-ghnìomhachadh ri fhaighinn dhut.
       followers: Imrichidh an gnìomh seo a h-uile neach-leantainn on chunntas làithreach dhan chunntas ùr
       only_redirect_html: Mar roghainn eile, ’s urrainn dhut <a href="%{path}">ath-stiùireadh a-mhàin a chur air a’ phròifil agad</a>.
+      other_data: Cha dèid dàta sam bith eile imrich gu fèin-obrachail
       redirect: Thèid pròifil a’ chunntais làithrich agad ùrachadh le brath ath-stiùiridh agus às-dhùnadh on lorg
   moderation:
     title: Maorsainneachd
@@ -2028,7 +2029,7 @@ gd:
     quote_policies:
       followers: Luchd-leantainn a-mhàin
       nobody: Mi fhìn a-mhàin
-      public: Neach sam bith
+      public: A h-uile duine
     quote_post_author: Luaidh air post le %{acct}
     title: "%{name}: “%{quote}”"
     visibilities:
@@ -2037,7 +2038,7 @@ gd:
       public: Poblach
       public_long: Neach sam bith taobh a-staigh no a-muigh Mhastodon
       unlisted: Sàmhach
-      unlisted_long: Falaichte o na toraidhean-luirg, na treandaichean ’s na loichnichean-ama poblach
+      unlisted_long: Falaichte o na toraidhean-luirg, na treandaichean ’s na loidhnichean-ama poblach
   statuses_cleanup:
     enabled: Sguab às seann-phostaichean gu fèin-obrachail
     enabled_hint: Sguabaidh seo às na seann-phostaichean agad gu fèin-obrachail nuair a ruigeas iad stairsneach aoise sònraichte ach ma fhreagras iad ri gin dhe na h-eisgeachdan gu h-ìosal
