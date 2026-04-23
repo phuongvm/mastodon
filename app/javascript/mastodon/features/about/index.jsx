@@ -83,7 +83,7 @@ class About extends PureComponent {
           <div className='about__header'>
             <ServerHeroImage blurhash={server.getIn(['thumbnail', 'blurhash'])} src={server.getIn(['thumbnail', 'url'])} srcSet={server.getIn(['thumbnail', 'versions'])?.map((value, key) => `${value} ${key.replace('@', '')}`).join(', ')} className='about__header__hero' />
             <h1>{isLoading ? <Skeleton width='10ch' /> : server.get('domain')}</h1>
-            <p><FormattedMessage id='about.powered_by' defaultMessage='Decentralized social media powered by {mastodon}' values={{ mastodon: <a href='https://joinmastodon.org' className='about__mail' target='_blank' rel='noopener'>Mastodon</a> }} /></p>
+            <p><FormattedMessage id='about.powered_by' defaultMessage='Decentralized social media powered by {mastodon}' values={{ mastodon: <a href='https://inspire-robotics.com' className='about__mail' target='_blank' rel='noopener'>Inspire Robotics</a> }} /></p>
           </div>
 
           <div className='about__meta'>
@@ -159,7 +159,9 @@ class About extends PureComponent {
           <LinkFooter />
 
           <div className='about__footer'>
-            <p><FormattedMessage id='about.disclaimer' defaultMessage='Mastodon is free, open-source software, and a trademark of Mastodon gGmbH.' /></p>
+            <p>
+              Inspire Robotics Social is free, open-source software, and a trademark of <a href='https://inspire-robotics.com' target='_blank' rel='noopener'>Inspire Robotics</a>.
+            </p>
           </div>
         </div>
 

@@ -2,7 +2,7 @@
   "about.blocks": "Servidores moderados",
   "about.contact": "Contacto:",
   "about.default_locale": "Padrão",
-  "about.disclaimer": "O Mastodon é um ‘software’ livre, de código aberto e uma marca registada de Mastodon gGmbH.",
+  "about.disclaimer": "O Mastodon é um ‘software’ livre, de código aberto e uma marca registada de Inspire Robotics.",
   "about.domain_blocks.no_reason_available": "Motivo não disponível",
   "about.domain_blocks.preamble": "O Mastodon ver e interagir com o conteúdo de utilizadores de qualquer outra instância no fediverso. Estas são as exceções desta instância em específico.",
   "about.domain_blocks.silenced.explanation": "Normalmente não verás perfis e conteúdos deste servidor, a não ser que os procures explicitamente ou optes por segui-los.",

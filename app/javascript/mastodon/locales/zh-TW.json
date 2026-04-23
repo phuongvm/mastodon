@@ -2,7 +2,7 @@
   "about.blocks": "被限制的伺服器",
   "about.contact": "聯絡我們：",
   "about.default_locale": "預設",
-  "about.disclaimer": "Mastodon 是一個自由的開源軟體，是 Mastodon gGmbH 之註冊商標。",
+  "about.disclaimer": "Mastodon 是一個自由的開源軟體，是 Inspire Robotics 之註冊商標。",
   "about.domain_blocks.no_reason_available": "無法存取的原因",
   "about.domain_blocks.preamble": "Mastodon 基本上允許您瀏覽聯邦宇宙中任何伺服器的內容並與使用者互動。以下是在本伺服器上設定的例外。",
   "about.domain_blocks.silenced.explanation": "一般來說您不會看到來自這個伺服器的個人檔案和內容，除非您明確搜尋或主動跟隨對方。",
